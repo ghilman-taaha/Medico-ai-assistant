@@ -1,0 +1,31 @@
+Panadol 500mg - Category: Analgesics - Price: 120 - Stock: 40 - Company: GSK
+Brufen 400mg - Category: Analgesics - Price: 180 - Stock: 0 - Company: Abbott
+Augmentin 625mg - Category: Antibiotics - Price: 450 - Stock: 25 - Company: GSK
+Disprin 300mg - Category: Analgesics - Price: 30 - Stock: 100 - Company: Reckitt
+Calpol 500mg - Category: Analgesics - Price: 95 - Stock: 60 - Company: GSK
+Amoxil 500mg - Category: Antibiotics - Price: 280 - Stock: 15 - Company: GSK
+Flagyl 400mg - Category: Antibiotics - Price: 150 - Stock: 40 - Company: Sanofi
+Ciprobid 500mg - Category: Antibiotics - Price: 210 - Stock: 0 - Company: Bosch
+Augmentin 375mg - Category: Antibiotics - Price: 320 - Stock: 30 - Company: GSK
+Ventolin Inhaler 100mcg - Category: Respiratory - Price: 600 - Stock: 12 - Company: GSK
+Zyrtec 10mg - Category: Anti-allergics - Price: 240 - Stock: 35 - Company: UCB
+Telfast 120mg - Category: Anti-allergics - Price: 310 - Stock: 20 - Company: Sanofi
+Cetirizine 10mg - Category: Anti-allergics - Price: 60 - Stock: 80 - Company: Getz
+Ranitidine 150mg - Category: Gastro - Price: 45 - Stock: 0 - Company: GSK
+Omeprazole 20mg - Category: Gastro - Price: 90 - Stock: 70 - Company: Getz
+Pantop 40mg - Category: Gastro - Price: 210 - Stock: 45 - Company: Abbott
+Risek 20mg - Category: Gastro - Price: 150 - Stock: 55 - Company: Getz
+Metformin 500mg - Category: Diabetes - Price: 85 - Stock: 120 - Company: Sanofi
+Glucophage 850mg - Category: Diabetes - Price: 160 - Stock: 0 - Company: Merck
+Amaryl 2mg - Category: Diabetes - Price: 275 - Stock: 18 - Company: Sanofi
+Lipitor 20mg - Category: Cardiovascular - Price: 390 - Stock: 22 - Company: Pfizer
+Crestor 10mg - Category: Cardiovascular - Price: 420 - Stock: 9 - Company: AstraZeneca
+Concor 5mg - Category: Cardiovascular - Price: 230 - Stock: 33 - Company: Merck
+Norvasc 5mg - Category: Cardiovascular - Price: 135 - Stock: 48 - Company: Pfizer
+Augmentin Duo 1g - Category: Antibiotics - Price: 500 - Stock: 0 - Company: GSK
+Ponstan 500mg - Category: Analgesics - Price: 110 - Stock: 65 - Company: Pfizer
+Voltral 50mg - Category: Analgesics - Price: 140 - Stock: 38 - Company: Novartis
+Arinac Forte - Category: Analgesics - Price: 85 - Stock: 90 - Company: Abbott
+Dolo 650mg - Category: Analgesics - Price: 35 - Stock: 200 - Company: Micro Labs
+Neurobion Forte - Category: Vitamins - Price: 75 - Stock: 42 - Company: Merck
+Vitamin C 500mg - Category: Vitamins - Price: 50 - Stock: 150 - Company: Getz
